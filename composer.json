@@ -4,7 +4,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
-        "guzzle/guzzle": "~3.7.2"
+        "guzzle/guzzle": "~3.8.1"
     },
     "require-dev": {
         "monolog/monolog": "1.*",
